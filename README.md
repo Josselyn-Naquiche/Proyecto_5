@@ -49,7 +49,11 @@ El proyecto está abierto a sugerencias y mejoras. Si tienes ideas para optimiza
 
 ## 💻 Autor  
 
-Desarrollado por *[SweetVibe]*  
+Desarrollado por el equipo *[SweetVibe]*  
+- Josselyn Naquiche Naquiche.
+- Camila Aranguri Callle.
+- Brigget Torres.
+- Ana Barbaran Molina.
 (https://josnaquichenaquich.wixsite.com/sweetvibe) 
 
 ---
