@@ -84,7 +84,9 @@ La tienda fue concebida para ser un espacio donde se pudieran descubrir recetas 
 - **Interactividad en el diseño:** La interfaz está pensada para fomentar la participación de los usuarios, con apartados que se adaptan a sus intereses y un sistema de pedidos ágil.
 - **Enfoque en la estética visual:** El diseño de la tienda prioriza una experiencia visualmente atractiva y fácil de navegar, con imágenes de alta calidad y descripciones claras de los productos.
 - **Actualización constante:** Con el blog integrado, SweetVibe mantiene una conexión constante con su audiencia, ofreciendo contenido actualizado sobre tendencias y novedades en el mundo de los postres.
-
+- **Desing thiking:** https://www.canva.com/design/DAGVqb6WJng/4g2vu7XUiOKUWWWPqw2apw/edit?utm_content=DAGVqb6WJng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- **Business Model Canva:** https://www.canva.com/design/DAGVqNXObtI/9Sqdv02BEBa6_QAbdoQjIQ/edit?utm_content=DAGVqNXObtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- **Lean startup:** https://docs.google.com/drawings/d/1aHxvqjCb_iBs-zSf3Kv92qGDxYMnRFhURVYlOmNS2i0/edit?usp=sharing
 ---
 
 ## 💻 Autor  
